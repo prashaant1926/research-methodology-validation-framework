@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "hypothesis": "A structured methodology validation framework incorporating multi-dimensional quality metrics will significantly improve research design reliability and reproducibility compared to traditional peer-review approaches."
+  },
+  {
+    "id": "example-1",
+    "hypothesis": "This is an example hypothesis that demonstrates the expected format.",
+    "_isExample": true
+  }
+]
